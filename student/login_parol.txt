@@ -1,0 +1,4 @@
+login: 
+blog_admin
+parol:
+blog_admin

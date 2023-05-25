@@ -1,0 +1,15 @@
+Time : 21:29:31
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'print.burger' doesn't exist
+Raw SQL : SELECT * FROM burger
+
+Time : 20:50:01
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'print.burger' doesn't exist
+Raw SQL : SELECT * FROM burger
+
+Time : 20:49:55
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'print.burger' doesn't exist
+Raw SQL : INSERT INTO burger (id, image, burger_insert, price, title, texttitle ) VALUES (?,?,?,?,?,?)
+
+Time : 20:49:44
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'print.burger' doesn't exist
+Raw SQL : INSERT INTO burger (id, image, burger_insert, price, title, texttitle ) VALUES (?,?,?,?,?,?)

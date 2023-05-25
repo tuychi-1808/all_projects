@@ -1,0 +1,7 @@
+Time : 21:38:55
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'print.burger' doesn't exist
+Raw SQL : SELECT * FROM burger
+
+Time : 21:38:42
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'print.burger' doesn't exist
+Raw SQL : SElECT * FROM burger

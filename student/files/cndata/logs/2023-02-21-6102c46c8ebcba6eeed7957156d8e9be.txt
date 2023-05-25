@@ -1,0 +1,23 @@
+Time : 10:24:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?
+
+Time : 10:12:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?
+
+Time : 10:11:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?
+
+Time : 10:10:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?
+
+Time : 10:09:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?
+
+Time : 10:05:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?

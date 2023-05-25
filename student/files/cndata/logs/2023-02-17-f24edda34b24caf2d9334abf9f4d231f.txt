@@ -1,0 +1,39 @@
+Time : 12:02:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price = ?, title = ?, texttitle = ?, image = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price = ?, title = ?, texttitle = ?, image = ? WHERE id = ?
+
+Time : 11:57:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price = ?, title = ?, texttitle = ? WHERE id = ?
+
+Time : 11:33:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price = ?, title = ?, texttitle = ?, image = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price = ?, title = ?, texttitle = ?, image = ? WHERE id = ?
+
+Time : 09:41:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price = ?, title = ?, texttitle = ?, image = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price = ?, title = ?, texttitle = ?, image = ? WHERE id = ?
+
+Time : 09:39:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price?, title?, texttitle?, image = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price?, title?, texttitle?, image = ? WHERE id = ?
+
+Time : 09:36:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price?, title?, texttitle?, image = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price?, title?, texttitle?, image = ? WHERE id = ?
+
+Time : 09:36:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price?, title?, texttitle?, image = ? WHERE id = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price?, title?, texttitle?, image = ? WHERE id = ?
+
+Time : 09:33:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price?, title?, texttitle?, image = ? WHERE ud = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price?, title?, texttitle?, image = ? WHERE ud = ?
+
+Time : 09:20:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price?, title?, texttitle?, image = ? WHERE ud = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price?, title?, texttitle?, image = ? WHERE ud = ?
+
+Time : 09:19:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'insert = ?, price?, title?, texttitle?, image = ? WHERE ud = ?' at line 1
+Raw SQL : UPDATE burger SET insert = ?, price?, title?, texttitle?, image = ? WHERE ud = ?
